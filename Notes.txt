@@ -1,0 +1,27 @@
+		Guide du jeu
+
+Pour créer les exécutables (veillez à être dans le bon dossier) :
+			make output
+
+Pour compiler, entrez :
+		JDDI.exe
+		
+Pour jouer, il faut entrer les coordonnées au format xy xy xy ... (le premier xy correspond à la position intiale, le dernier à la position finale et ceux du milieux correspondent aux positions intermédiaire).
+
+Pour annuler un coup joué, entrez :
+			annuler
+			
+Pour fermer, entrez :
+		fermer
+		
+Pour rejouer une partie enregistrée précédemment, entrez :
+			JDDI.exe Parties/nom_du_fichier.part
+Une fois la partie chargéen vous aurez la possibilitée de circuler entre les différents coup joués, de continuer ou de quitter.
+			
+Pour afficher un damier enregistrée précédemment, entrez :
+			JDDI.exe Plateaux/nom_du_fichier.plt
+			
+			
+			
+			BON JEU !
+			
